@@ -51,3 +51,10 @@ I. Title: The Koha Open Source ILS, its history, its community, and its importan
     4. How I ended up as a systems librarian is a long story.  I never planned on being a librarian - especially not a systems librarian.  After my father died when I was 19 I dropped out of college and when I was 26 I was a bus driver who decided to go back to college.  Going back to college landed me a part time work-study job at the University of Idaho Library and then my wife needed to move to Boise for a job and because I had library experience plus a Class B CDL, 2 years later I ended up as a part time college student at Boise State University working full time as the Bookmobile Driver for Boise Public Library.
 
   B.
+Hello, my name is George Williams and I'm going to be talking today about the Koha open source Integrated Library System.  I'll talk about its history, the Koha community - worldwide - in the US - and in Kansas, and I'll talk about why Koha is important to libraries and why, once librarians understand what open source is, they tend to see it as a natural fit for the work we try to do.
+
+Normally when I talk about Koha, I'm usually talking at a conferences full of librarians.  And when I'm with a group of librarians and I say "I'm going to talk about the Koha open source ILS," I usually have to spend about 5-10 minutes explaining "Open source."  When I was planning for this presentation I realized, I'm not going to have to do that.  Instead I realized that I was probably going to have to do a quick explanation of ILS.  And then it occurred to me that a brief history of integrated library systems is really a good introduction to why and how Koha comes into existence.
+
+So, how many of you can remember a time when libraries actually had card catalogs?
+
+One of the interesting thing about card catalogs is that everyone thinks of them as this old fashioned way of organizing library metadata but libraries have been around since (at least) 2600 BCE, but card catalogs have only been around since the 1780s - and they really only existed in public libraries in the USA from the 1890s to the 1990s
