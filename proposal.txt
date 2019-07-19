@@ -58,3 +58,6 @@ Normally when I talk about Koha, I'm usually talking at a conferences full of li
 So, how many of you can remember a time when libraries actually had card catalogs?
 
 One of the interesting thing about card catalogs is that everyone thinks of them as this old fashioned way of organizing library metadata but libraries have been around since (at least) 2600 BCE, but card catalogs have only been around since the 1780s - and they really only existed in public libraries in the USA from the 1890s to the 1990s
+
+
+Hello, my name is George Williams and I'm the Next Search Catalog Coordinator for Northeast Kansas Library System in Lawrence, KS.  Today I'm going to talk about the Koha open source Integrated Library System, its history, and the Koha community and the adoption of Koha:  worldwide, in the US, and in Kansas.  Koha is an open source success story that is getting to be known in the library world but outside of the library world, it's virtually invisible.  When one of my co-workers suggested I come to Kansas Linuxfest just as an attendee I looked at the website and there wasn't a schedule up yet, but there was the call for proposals that said, ""
