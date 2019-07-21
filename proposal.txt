@@ -38,26 +38,15 @@ Its history
 Its community
 Its role in Kansas libraries
 
-**What is Koha and why does it matter.
 
-Who am I and why does it matter. - establish your authority.
+The mission of librarians is to improve society through facilitating knowledge creation in their communities.
 
+-----
 
-I. Title: The Koha Open Source ILS, its history, its community, and its importance in Kansas libraries
-  A. Me - George Williams - Next Search Catalog Coordinator at Northeast Kansas Library System
-    1. Next Search Catalog is a shared catalog in Northeast Kansas with 51 member libraries.  I'll talk more about that later.
-    2. I'm also currently the president of koha-US - an organized Koha users group here in the USA
-    3. I've been involved in the Koha community since 2011 when I was working at the Latah County Library District in north central Idaho.
-    4. How I ended up as a systems librarian is a long story.  I never planned on being a librarian - especially not a systems librarian.  After my father died when I was 19 I dropped out of college and when I was 26 I was a bus driver who decided to go back to college.  Going back to college landed me a part time work-study job at the University of Idaho Library and then my wife needed to move to Boise for a job and because I had library experience plus a Class B CDL, 2 years later I ended up as a part time college student at Boise State University working full time as the Bookmobile Driver for Boise Public Library.
+How many of you had heard of the Koha open source Integrated Library System before you read the description of this presentation in the conference program?
 
-  B.
-Hello, my name is George Williams and I'm going to be talking today about the Koha open source Integrated Library System.  I'll talk about its history, the Koha community - worldwide - in the US - and in Kansas, and I'll talk about why Koha is important to libraries and why, once librarians understand what open source is, they tend to see it as a natural fit for the work we try to do.
+[The number will be low]
 
-Normally when I talk about Koha, I'm usually talking at a conferences full of librarians.  And when I'm with a group of librarians and I say "I'm going to talk about the Koha open source ILS," I usually have to spend about 5-10 minutes explaining "Open source."  When I was planning for this presentation I realized, I'm not going to have to do that.  Instead I realized that I was probably going to have to do a quick explanation of ILS.  And then it occurred to me that a brief history of integrated library systems is really a good introduction to why and how Koha comes into existence.
+I'm not surprised because knowing about Koha is kind of like knowing about the software that your bank uses to manage your accounts or knowing the name of the software that the city uses to track your water bill.  Those software packages affect people all over the country - probably all over the world, but usually only people that work in those industries know the names of those software packages or know which companies sell those products.  And the same is true for library systems.  Millions of people visit libraries all over the world every day - in Kansas alone, almost 38,000 people visit the library every day - that's over 13,500,000 library visits a year in a state with only about 2.5 million people.
 
-So, how many of you can remember a time when libraries actually had card catalogs?
-
-One of the interesting thing about card catalogs is that everyone thinks of them as this old fashioned way of organizing library metadata but libraries have been around since (at least) 2600 BCE, but card catalogs have only been around since the 1780s - and they really only existed in public libraries in the USA from the 1890s to the 1990s
-
-
-Hello, my name is George Williams and I'm the Next Search Catalog Coordinator for Northeast Kansas Library System in Lawrence, KS.  Today I'm going to talk about the Koha open source Integrated Library System, its history, and the Koha community and the adoption of Koha:  worldwide, in the US, and in Kansas.  Koha is an open source success story that is getting to be known in the library world but outside of the library world, it's virtually invisible.  When one of my co-workers suggested I come to Kansas Linuxfest just as an attendee I looked at the website and there wasn't a schedule up yet, but there was the call for proposals that said, ""
+So, my name is George Williams and I'm the "Next Search Catalog Coordinator" for Northeast Kansas Library System in Lawrence.  Today I'm going to talk about the Koha open source Integrated Library System.  I'll talk a bit about its history, and the Koha community and the adoption of Koha by libraries worldwide, in the US, and in Kansas.  Koha is an open source success story.  Koha is known by many in the library world but outside of the library world, it does not have much of a profile.  Because of its impact on libraries and the impact of libraries on the people they serve, Koha has an indirect impact on people all over the world.  Because it's an open source success story, I thought I'd let you all know what's going on.
