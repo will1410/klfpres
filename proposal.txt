@@ -65,7 +65,7 @@ I'm here for two reasons.
 
 Firstly, one of my coworkers suggested this conference to me, so I looked at the conference website to see if there was a schedule or a list of presentations.  And there wasn't, but when I saw that the call for proposals there were 10 proposed topics and four of them stood out to me as things that I actually knew something about.  The first two that stood out were "Open source software and programming languages," and "Communities built around open source technology" and those both apply to Koha.  But two of the other suggested topics were "Open knowledge and education," and "Anything else considered 'open'." Both of these ideas are at the center of what's called "New librarianship" which is something I believe in.
 
-"The mission of librarians is to improve society through facilitating knowledge creation in their communities." David Lankes - Atlas of New Librarianship
+"The mission of librarians is to improve society through facilitating knowledge creation in their communities." David Lankes - Atlas of New Librarianship - University of South Carolina
 
 So I thought about all the times I've talked to library people about Koha and thought this might be a good place to go to talk to non-library people about Koha because Koha is an unqualified open source success story.
 
