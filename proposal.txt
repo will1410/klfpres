@@ -51,21 +51,30 @@ How many of you had already heard of the Koha open source project before you rea
 
 []
 
-I'm not surprised because knowing about Koha is kind of like knowing the name of the software that your bank uses to manage your accounts or knowing the name of the software that the city uses to track your water bill.
+I'm not surprised because knowing whether or not your library uses Koha is kind of like knowing the name of the software that your bank uses to manage your accounts or knowing the name of the software that the city uses to track your water bill.
 
-[bank slide - water slide]
+[bank slide - water slide - library slide]
 
 Software packages like this affect people all over the country - all over the world - but usually only the people that work industries like banking or city management know the names of the software packages they use or know which companies sell those products.  And the same is true for library systems.  Millions of people visit libraries all over the world every day - in Kansas alone, almost 38,000 people visit a public library every day - that's over 13,500,000 library visits a year - and that's in a state with only about 2.5 million people.
 
-My name is George Williams and my official title is "Next Search Catalog Coordinator" for Northeast Kansas Library System in Lawrence.  Today I'm going to talk about the Koha open source Integrated Library System.  I'll talk a bit about its history, and the Koha community and the use of Koha by libraries worldwide, in the US, and in Kansas.
+My name is George Williams and my official title is "Next Search Catalog Coordinator" for Northeast Kansas Library System in Lawrence.  I'm also currently the president of koha-US.  Today I'm going to talk about the Koha open source Integrated Library System.  I'll talk a bit about its history, and the Koha community and the use of Koha by libraries worldwide, in the US, and in Kansas.
 
-One of my coworkers suggested this conference to me, so I looked at the conference website to see if there was a schedule or a list of presentations.  And there wasn't, but when I saw that the call for proposals there were 10 proposed topics and three of them stood out to me as things that I could talk about.  The first was Open source software . . ." and that's Koha, of course.  But one of the other suggested topics was "Open knowledge and education" which is at the center of what libraries are all about.  And another was "Anything else considered 'open'" and there are many aspects of library software and libraries in general that are "Open," so I thought about all the times I've talked to library people about Koha and thought this might be a good place to go to talk to non-library people about Koha because Koha is an unqualified open source success story.
+One of my coworkers suggested this conference to me, so I looked at the conference website to see if there was a schedule or a list of presentations.  And there wasn't, but when I saw that the call for proposals there were 10 proposed topics and three of them stood out to me as things that I could talk about.  The first was Open source software . . ." and that's Koha, of course.  But one of the other suggested topics was "Open knowledge and education" which is at the center of what libraries are all about.
 
-Koha is known by many in the library world but outside of libraries, Koha does not have a big profile.  One time when I asked a group of library people if they knew what Koha was, one of them said it was a dog food company.  And they were right.  There is a company called Koha that makes
+"The mission of librarians is to improve society through facilitating knowledge creation in their communities." David Lankes - Atlas of New Librarianship
+
+And another was "Anything else considered 'open'" and there are many aspects of library software and libraries in general that are "Open," so I thought about all the times I've talked to library people about Koha and thought this might be a good place to go to talk to non-library people about Koha because Koha is an unqualified open source success story.
+
+Koha is known by many in the library world but outside of libraries, Koha does not have a big profile.  One time when I asked a group of library people if they knew what Koha was, one of them said it was a dog food company.  And they were right.  There is a company called Koha that makes dog food . . . out of Kangroo meat.  It's an austrialian company.
+
+[Koha dog food slide - Koha ILS logo]
+
+The Koha ILS was the first Open Source ILS in the world.  It's used by thousands of libraries throughout the world - definitely more than any other open source ILS.  It's used on all 7 continents.  And it is possibly used by more libraries than any other single ILS.  I add the qualifier "possibly" on this one because there's no undisputable data to back up that assertion.  It's estimated that as many as 15,000 libraries are now using Koha, but there's no was to verify that.
 
 
 
-  Because of its impact on libraries and the impact of libraries on the people they serve, Koha has an indirect impact on people all over the world.  Since it's an open source success story,
 
 
-My job title is, therefore, meaningless unless you know that "Next Search Catalog" is the name of the shared library catalog that NEKLS operates on behalf of 51 libraries in the northeastern corner of the state.  Operating a shared catalog means that you can get a card at Leavenworth Public Library and use that same card at the library in Ottawa.  It also means that when our patrons do a search in our online catalog, they're searching the collections of all 51 libraries at once.  Someone from Seneca can see what's owned at the library in Osage City, and because of our courier network, a patron from one library can request items from any other library in the system and get 
+
+
+My job title is, therefore, meaningless unless you know that "Next Search Catalog" is the name of the shared library catalog that NEKLS operates on behalf of 51 libraries in the northeastern corner of the state.  Operating a shared catalog means that you can get a card at Leavenworth Public Library and use that same card at the library in Ottawa.  It also means that when our patrons do a search in our online catalog, they're searching the collections of all 51 libraries at once.  Someone from Seneca can see what's owned at the library in Osage City, and because of our courier network, a patron from one library can request items from any other library in the system and get
