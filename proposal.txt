@@ -49,6 +49,8 @@ The mission of librarians is to improve society through facilitating knowledge c
 
 How many of you had already heard of the Koha open source project before you read the description of this presentation in the conference program or on the conference website?
 
+And I'm talking about the Koha project used in libraries - not the dog food company.
+
 []
 
 I'm not surprised because knowing whether or not your library uses Koha is kind of like knowing the name of the software that your bank uses to manage your accounts or knowing the name of the software that the city uses to track your water bill.
@@ -59,17 +61,82 @@ Software packages like this affect people all over the country - all over the wo
 
 My name is George Williams and my official title is "Next Search Catalog Coordinator" for Northeast Kansas Library System in Lawrence.  I'm also currently the president of koha-US.  Today I'm going to talk about the Koha open source Integrated Library System.  I'll talk a bit about its history, and the Koha community and the use of Koha by libraries worldwide, in the US, and in Kansas.
 
-One of my coworkers suggested this conference to me, so I looked at the conference website to see if there was a schedule or a list of presentations.  And there wasn't, but when I saw that the call for proposals there were 10 proposed topics and three of them stood out to me as things that I could talk about.  The first was Open source software . . ." and that's Koha, of course.  But one of the other suggested topics was "Open knowledge and education" which is at the center of what libraries are all about.
+I'm here for two reasons.
+
+Firstly, one of my coworkers suggested this conference to me, so I looked at the conference website to see if there was a schedule or a list of presentations.  And there wasn't, but when I saw that the call for proposals there were 10 proposed topics and four of them stood out to me as things that I actually knew something about.  The first two that stood out were "Open source software and programming languages," and "Communities built around open source technology" and those both apply to Koha.  But two of the other suggested topics were "Open knowledge and education," and "Anything else considered 'open'." Both of these ideas are at the center of what's called "New librarianship" which is something I believe in.
 
 "The mission of librarians is to improve society through facilitating knowledge creation in their communities." David Lankes - Atlas of New Librarianship
 
-And another was "Anything else considered 'open'" and there are many aspects of library software and libraries in general that are "Open," so I thought about all the times I've talked to library people about Koha and thought this might be a good place to go to talk to non-library people about Koha because Koha is an unqualified open source success story.
+So I thought about all the times I've talked to library people about Koha and thought this might be a good place to go to talk to non-library people about Koha because Koha is an unqualified open source success story.
 
-Koha is known by many in the library world but outside of libraries, Koha does not have a big profile.  One time when I asked a group of library people if they knew what Koha was, one of them said it was a dog food company.  And they were right.  There is a company called Koha that makes dog food . . . out of Kangroo meat.  It's an austrialian company.
+Koha is known by many in the library world but outside of libraries, Koha does not have a big profile.
 
-[Koha dog food slide - Koha ILS logo]
 
 The Koha ILS was the first Open Source ILS in the world.  It's used by thousands of libraries throughout the world - definitely more than any other open source ILS.  It's used on all 7 continents.  And it is possibly used by more libraries than any other single ILS.  I add the qualifier "possibly" on this one because there's no undisputable data to back up that assertion.  It's estimated that as many as 15,000 libraries are now using Koha, but there's no was to verify that.
+
+
+
+Normally when I talk about Koha I'm talking to library people at library conferences or things like that, so normally when I talk about Koha, I usually have to spend a few minutes explaining "Open Source."  Since there aren't any library people here today, I thought I'd get into the history of Koha by doing a 2 minute history of ILS in general.  ILS stands for Integrated Library System.
+
+The beginning is back in the 1960s when someone at a library said, "Hey, instead of putting all of our metadata on 3x5 cards in a card catalog, why don't we put it in a computer file.  Then instead of having separate Title, Author, and Subject cards for each title, we could just have 1 record for each title that could be searched 3 different ways."  And somebody said, "Hey, great idea, let's do that."
+
+And while the catalogers were doing that, someone in the circulation department said, "Hey, instead of storing all of our patron data on little 3x5 cards behind the circulation desk, why don't we put that data on a computer, then it would be easier to store and search through that data."  And somebody said "Hey, great idea, let's do that."
+
+And after those two projects were underway, somebody else came along and said "Hey, why don't we INTEGRATE these two systems and add an inventory control module so we can track which patron has which book?"  And somebody said "Hey, we could make money selling computer systems that do all that."
+
+Starting around 1975, there were several companies selling computer systems to libraries to do, mostly, these three things and that's what the most basic ILS does - cataloging, patron records, and circulation.  But since the beginnings in the 1970s many other features have been added including Acquisitions, Serials, Course Reserves, Authority Control, and, of course, web based patron access catalogs.
+
+In the early 70s there were just a few companies that offered integrated library systems - Computer Library Systems Incorporated (CLSI) - GEAC Library Solutions - NOTIS (Northwestern Online Total Integrated System).  By the mid-80s, though, there were about 25-30 companies worldwide, and by the late 90s those 25-30 companies were merging into just the handful that we have today.
+
+Really, right now, the only companies that have systems that are viable for large scale use are Proquest, Innovative, SirsiDynix
+Follett, TLC, and OCLC.
+
+Koha comes into the picture in 1999.  At the beginning of 1999, The Horowhenua Trust Library in Levin New Zealand discovered that the system they were using had 2 problems.  The first was a Y2K bug.  The second was that they couldn't update the software because it was proprietary and the company that made it had gone out of business.
+
+First they sent out a standard RFP to all the usual vendors.  The responses they got were #1, too expensive, and #2, didn't meet their needs.  So, after the failed RFP, they turned to a local company called Katipo Communications and asked them if they could write an ILS that met all of their needs and have it ready to use by January 3, 2000.
+
+And part of the agreement they reached with Katipo when they wrote their contract for the development was that the end result would be free and open source.
+
+They decided to call the software Koha.  The name Koha comes from Maori word for gift - but it's a gift with strings of reciprocity [need slides]
+
+
+
+Throughout the year they worked through this cycle of development, testing, and redevelopment.  Then on January 3, 2000, Koha went live at the Library in Levin.  And Koha 1.0 was released worldwide in June, 2000.  At that point, 4 people have code in Koha.  By the end of January 2001, 5 people have code in Koha.  https://slides.com/ranginui/pakistan-koha-conference-2019#/3
+
+From 2001-2005 Bugzilla is set up to track issues, community starts a Wiki, MARC support is added, by the end of 2005, 39 people have code in Koha.
+
+2006-2010 - KohaCon begins.  Moved to Git.  Zebra search engine is added.  Major crisis - the LibLime Fork.  By the end of 2010, 130 people have code in Koha.
+
+2011-2015 - Release schedule is set to 2 times per year - May and November.  Liblime fork is resolved.  By the end of 2015, 305 people have code in Koha.
+
+2016-present - Community re-organizes construction of the Koha documentation.  Support for ElasticSearch is added.  Support begins to move from MySQL to MariaDB.  50 companies worldwide are offering support for Koha - In the US, the biggest two companies are ByWater Solutions and Equinox Software.  Over 400 people have code in Koha.
+
+The things that the Koha community value are Coopetition - One Koha - Open Meetings - Transparancy - Consensus - Inclusivity - Robust development process.
+
+Kansas --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
