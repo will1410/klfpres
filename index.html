@@ -21,6 +21,7 @@
 		<style>
 			h1, h2, h3, h4, h5 {text-transform: none !important;}
 			p  {font-size: 110%;}
+			.img-container {float: left; width: 50%; padding: 5px;}
 		</style>
 	</head>
 
@@ -32,53 +33,20 @@
 				</span>
 				<div class="slides">
 
-
-
-
-
-
-					<section>
+					<section id="slide-opener">
 						<h2>Koha Open Source ILS</h2>
 						<p>Its history, its community, its use in libraries worldwide and in Kansas</p>
 						<h3>George Williams - Northeast Kansas Library System</h3>
 						<aside class="notes">Entry slide</aside>
 					</section>
 
-					<section>
+					<section id="slide-question">
 						<h2 >Question</h2>
 						<p>How many of you had heard of Koha before you read the word "Koha" in the title of this presentation?</p>
 						<aside class="notes">Question</aside>
 					</section>
 
-					<section>
-						<table>
-							<tr>
-								<td>
-									<img src="./images/dog.010.jpg" alt="dog food" >
-									<p style="text-align: center;">Dog food Koha.</p>
-								</td>
-							</tr>
-						</table>
-						<aside class="notes">Speaker notes</aside>
-					</section>
-
-					<section>
-						<table>
-							<tr>
-								<td>
-									<img src="./images/dog.020.jpg" alt="dog food" >
-									<p style="text-align: center;">Dog food Koha no.</p>
-								</td>
-								<td class="fragment" data-fragment-index="2">
-									<img src="./images/bpl.010.jpg" alt="Bank">
-									<p style="text-align: center;">Library Koha yes.</p>
-								</td>
-							</tr>
-						</table>
-						<aside class="notes">Speaker notes</aside>
-					</section>
-
-					<section>
+					<section id="slide-bank-water">
 						<table>
 							<tr>
 								<td>
@@ -94,7 +62,7 @@
 						<aside class="notes">Question</aside>
 					</section>
 
-					<section>
+					<section id="slide-library">
 						<table>
 							<tr>
 								<td>
@@ -105,19 +73,34 @@
 						<aside class="notes">Question</aside>
 					</section>
 
-					<section>
+					<section id="slide-me">
 						<h2>George Williams</h2><br />
 						<h3>Next Search Catalog Coordinator<br />Northeast Kansas Library System<br />www.nekls.org</h3><br />
 						<h3>koha-US President 2019<br />www.koha-us.org</h3>
 						<aside class="notes">Speaker notes</aside>
 					</section>
 
-					<section>
-						<h3>"The mission of librarians is to improve society through facilitating knowledge creation in their communities."</h3>
-						<p>-- David Lankes - ATLAS OF NEW LIBRARIANSHIP</p>
+					<section id="slide-topics">
+						<h2>Conference topics</h2>
+						<h3 class="fragment" data-fragment-index="1">Open source software and programming languages</h3>
+						<h3 class="fragment" data-fragment-index="1">Communities built around open source technology</h3>
+						<h3 class="fragment" data-fragment-index="2">Open knowledge and education</h3>
+						<h3 class="fragment" data-fragment-index="2">Anything else considered "open"</h3>
+						<aside class="notes">Speaker notes</aside>
 					</section>
 
-					<section>
+					<section id="slide-lankes">
+						<h3>"The mission of librarians is to improve society through facilitating knowledge creation in their communities."</h3>
+						<p>-- David Lankes - <a href="https://mitpress.mit.edu/books/atlas-new-librarianship" target="_blank">ATLAS OF NEW LIBRARIANSHIP</p>
+					</section>
+
+					<section id="slide-gaiman">
+						<h3>Google can bring you back 100,000 answers.<br />A librarian can bring you back the right one.</h3>
+						<p>-- Neil Gaiman (<a href="https://youtu.be/uH-sR1uCQ6g" target="_blank">YouTube</a>)</p>
+						<aside class="notes">Speaker notes</aside>
+					</section>
+
+					<section id="slide-success">
 						<h2>Koha is an unqualified open source success story</h2>
 						<h3 class="fragment" data-fragment-index="1">First open source ILS</h3>
 						<h3 class="fragment" data-fragment-index="2">First fully web based ILS</h3>
@@ -128,42 +111,118 @@
 					</section>
 
 
+					<section id="ilshistory1">
+						<h2>Really brief history of ILS</h2>
+						<table>
+							<tr>
+								<td>
+									<img src="./images/card.010.jpg" alt="Card catalog" width="750" >
+									<p style="text-align: center;">Card catalog production<br /><a href="https://www.chroniclebooks.com/titles/the-card-catalog.html" target="_blank">Library of Congress 1919</a></p>
+								</td>
+								<td class="fragment" data-fragment-index="1">
+									<img src="./images/circ.010.jpg" alt="Circulation" width="750">
+									<p style="text-align: center;">Circulation Desk<br />Latah County Library - 2007</p>
+								</td>
+							</tr>
+						</table>
+						<aside class="notes">Question</aside>
+         </section>
 
+				 <section id="slide-ilshistory2">
+					 <h2>The 70s</h2>
+					 <img src="./images/clsi.010.jpg" alt="CLSI Advertisement" height="375">
+					 <p>Advertisement for CLSI from<br />COLLEGE AND RESEARCH LIBRARIES, v. 36, no. 4, July 1975</p>
+					 <aside class="notes">Speaker notes</aside>
+				 </section>
 
+				 <section id="slide-ilshistory3">
+					 <h2>The 80s and 90s</h2>
+					 <img src="./images/dynix.010.jpg" alt="CLSI Advertisement" height="375">
+					 <p>DYNIX Screenshot<br />From Wikipedia <a href="https://en.wikipedia.org/wiki/User:Skylarstrickland" class="extiw" title="en:User:Skylarstrickland">User:Skylarstrickland</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=30191622">Link</a></p>
+					 <aside class="notes">Speaker notes</aside>
+				 </section>
 
+					<section id="slide-levin">
+						<h2>Beginnings of Koha</h2>
+					  <img src="./images/Levin.010.jpg" alt="Levin New Zealand"  height="375">
+						<p>Levin, New Zealand</p>
+						<aside class="notes">Speaker notes</aside>
+					</section>
 
+					<section id="slide-hlt">
+						<h2>Beginnings of Koha</h2>
+						<img src="./images/tetakere.010.jpg" alt="Te Takere Community Center and Library"  height="375">
+						<p>Te Takere Community Center and Library</p>
+						<aside class="notes">Speaker notes</aside>
+					</section>
 
-
-
-
-
-					<section>
-						<h1>Heading 1</h1>
-						<h2>Heading 2</h2>
-						<h3>Heading 3</h3>
-						<p>Paragraph</p>
+					<section id="slide-kohadef">
+						<h2>Koha</h2>
+						<img src="https://i1.wp.com/www.korustreet.com/wp-content/uploads/2009/07/koru1_bigger.jpg?resize=300%2C254&ssl=1" alt="Koru" style="border-width: 0px; float: right;">
+						<ul style="float: left;">
+						<br />
+						<li>Koha means "gift" in Maori</li>
+						<li>The logo comes from the shape of the Silver Fern<br />which the Maori call "koru"</li>
+						<li>Symbolizes new growth, life, and peace</li>
+						</ul>
 						<aside class="notes">Speaker notes</aside>
 					</section>
 
 					<section>
-						<h1>Heading 1</h1>
-						<h2>Heading 2</h2>
-						<h3>Heading 3</h3>
-						<p>Paragraph</p>
+						<h2>Timeline</h2>
+						<ul>
+							<li class="fragment fade-in-then-semi-out">2000 - 4 developers have code in KohaCon</li>
+							<li class="fragment fade-in-then-semi-out">2001-2005 - Bugzilla, Wiki, Marc support<br />39 people have code in Koha</li>
+							<li class="fragment fade-in-then-semi-out">2006-2010 - KohaCon, Git, Zebra, LibLime fork<br />130 people have code in Koha</li>
+							<li class="fragment fade-in-then-semi-out">2011-2015 - Bi-annual release, LibLime issue resolved, Regional users groups<br />305 people have code in KohaCon</li>
+							<li class="fragment">2016-Present ElasticSearch, MariaDB is added<br />over 400 people have code in Koha</li>
+						</ul>
+						<aside class="notes">Speaker notes</aside>
+					</section>
+
+					<section id="kansas1">
+						<h2>Kansas</h2>
+						<img src="./images/kansas010.jpg" alt="Kansas"  height="375">
+						<aside class="notes">Speaker notes</aside>
+					</section>
+
+					<section id="kansas3">
+						<h2>Seven Regional Libraries</h2>
+						<img src="./images/kansas030.jpg" alt="Kansas"  height="375">
+						<aside class="notes">Speaker notes</aside>
+					</section>
+
+					<section id="kansas4">
+						<h2>Central Kansas Library System</h2>
+						<img src="./images/kansas040.jpg" alt="Kansas"  height="375">
+						<p>Regional shared catalog called "Pathfinder Central"<br /><a href="https://catalog.ckls.bywatersolutions.com/" target="_blank">Pathfinder Central</a></p>
+						<aside class="notes">Speaker notes</aside>
+					</section>
+
+					<section id="kansas5">
+						<h2>Koha in Kansas</h2>
+						<img src="./images/kansas050.jpg" alt="Kansas"  height="375">
+						<p>Regional shared catalog called "Next Search Catalog"<br /><a href="https://nextkansas.org" target="_blank">Next Search Catalog</a></p>
+						<aside class="notes">Speaker notes</aside>
+					</section>
+
+					<section id="kansas6">
+						<h2>Koha in Kansas</h2>
+						<img src="./images/kansas060.jpg" alt="Kansas"  height="375">
+						<p>Regional shared catalog called "SEKnFind"<br /><a href="https://www.seknfind.org/" target="_blank">SEKnFind</a></p>
+						<aside class="notes">Speaker notes</aside>
+					</section>
+
+					<section id="kansas7">
+						<h2>Koha in Kansas</h2>
+						<img src="./images/kansas070.jpg" alt="Kansas"  height="375">
+						<p>There are several other libraries in Kansas using Koha that are not affiliated with any of the regional library systems.</p>
+						<p>In SCKLS, Derby Public Library is organizing a shared Koha catalog that is going live this weekend.</p>
 						<aside class="notes">Speaker notes</aside>
 					</section>
 
 					<section>
-						<h1>Heading 1</h1>
-						<h2>Heading 2</h2>
-						<h3>Heading 3</h3>
-						<p>Paragraph</p>
-						<aside class="notes">Speaker notes</aside>
-					</section>
-
-					<section>
-						<h1>Heading 1</h1>
-						<h2>Heading 2</h2>
+						<h2>What Koha brings to Kansas</h2>
 						<h3>Heading 3</h3>
 						<p>Paragraph</p>
 						<aside class="notes">Speaker notes</aside>
